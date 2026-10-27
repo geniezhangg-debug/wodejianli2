@@ -1,0 +1,92 @@
+{
+  "projects": 88,
+  "staticFiles": 365,
+  "bytes": 3824750117,
+  "automaticExternalDependencies": [],
+  "externalProjectLinkCount": 14,
+  "contentSHA256": "485938a611ff7c06dab88c4ace34dd60a023a2f57d3e470ed1ae054d3bc3eb94",
+  "source": "E:\\作品集网站APP\\张锦玲作品集-面试展示版-20261027-233452",
+  "webroot": "webroot",
+  "responsive": true,
+  "repairedAttachmentPaths": [
+    {
+      "project": "内江民建70周年庆祝晚会全案策划",
+      "old": "media/documents/内江民建70周年文艺晚会完整策划方���-1.pdf",
+      "new": "media/documents/内江民建70周年文艺晚会完整策划方案-1.pdf"
+    }
+  ],
+  "missingProjectAttachments": 0,
+  "videoReplacement": {
+    "project": "2026年医师节（内江二医院）",
+    "path": "media/videos/8.19医师节.mp4",
+    "bytes": 34120287,
+    "sha256": "7f286ad4b72eac19ea89823674735ea704643b96ec338f23bdb67af98cc553cb",
+    "video": "H.264 / 854x480 / AAC",
+    "durationSeconds": 390.61,
+    "originalPreservedIn": "E:\\作品集网站APP\\张锦玲作品集-编辑器完整备份-20261027-233452\\media\\videos\\8.19医师节.mp4"
+  },
+  "videoReplacements": [
+    {
+      "project": "2026年医师节（内江二医院）",
+      "path": "media/videos/8.19医师节.mp4",
+      "bytes": 34120287,
+      "sha256": "7f286ad4b72eac19ea89823674735ea704643b96ec338f23bdb67af98cc553cb",
+      "video": "H.264 / 854x480 / AAC",
+      "durationSeconds": 390.61,
+      "originalPreservedIn": "E:\\作品集网站APP\\张锦玲作品集-编辑器完整备份-20261027-233452\\media\\videos\\8.19医师节.mp4"
+    },
+    {
+      "project": "“重”望所归担使命，护航生命守初心（内江二医院重症医学科）",
+      "path": "media/videos/8.17“重”望所归担使命，护航生命守初心.mp4",
+      "bytes": 69150042,
+      "sha256": "4f4d7e19bdb38bc26a008b2daa365a37e79898b5928cbf93105063a4ab6154a5",
+      "video": "H.264 / 854x480 / AAC",
+      "durationSeconds": 344.98
+    }
+  ],
+  "pptReplacement": {
+    "project": "摩西机构简介2",
+    "path": "media/documents/（已压缩）MOSES-摩西机构简介.pptx",
+    "bytes": 3203300,
+    "slides": 34,
+    "sha256": "2546b36baba015037e2638a324ca69421dc8c9229e872a8e2c42367b5c988c41",
+    "removedDuplicates": [
+      "摩西机构简介2.pptx",
+      "摩西机构简介2-1.pptx"
+    ]
+  },
+  "sixVerifiedReplacements": [
+    {
+      "project": "2025年度总结片（内江二医院）",
+      "path": "media/videos/3.24总结片压缩.mp4",
+      "bytes": 21743619,
+      "sha256": "ee5c0deb99e0e5c9e4b027ef1df34cb2f742fd3c15f63d259488a844b914ec5c"
+    },
+    {
+      "project": "为希望而试，GCP工作纪实（临床试验）",
+      "path": "media/videos/微信视频2026-10-26_195712_723.mp4",
+      "bytes": 91716867,
+      "sha256": "6a8f6fcfd3b13ba53f0311994be203913cd45cf1a6f29f55cb5793dec6f17a01"
+    },
+    {
+      "project": "摩西机构简介1",
+      "path": "media/documents/（已压缩）摩西机构简介1-1 (1).pptx",
+      "bytes": 164060996,
+      "sha256": "9fa53bbaa8a3fd197f56e39f8b6fbd641362b1618af431549418e8d5428ce454"
+    },
+    {
+      "project": "读书推荐：好好休息才是正经事啊",
+      "path": "media/videos/3月2日 (1)(9).mp4",
+      "bytes": 14737716,
+      "sha256": "5d8c2c9d528ee561421aa908292755f7aac540d9118adabb78e478a6561284b6"
+    },
+    {
+      "project": "资中县高标准农田建设汇报",
+      "path": "media/documents/资中县高标准农田建设汇报-1.pptx",
+      "bytes": 182296568,
+      "sha256": "e38c93a116041d3e4a89cffee860bcbd6d74d30ab617d8063f49fbacd36fe953"
+    }
+  ],
+  "verification": "PPT逐页文字与图片对象数量；视频3个时间点画面对比及完整时长对比",
+  "removedProjectCount": 1
+}
